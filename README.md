@@ -80,5 +80,5 @@ Key Learnings:
 - Communicating insights through visualisations and presentations
 
 Author
-Padma Sai Vayigandla
+Mohan Chand Kommalapati
 Data Science Learner
